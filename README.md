@@ -1,4 +1,4 @@
-# Credit_Fraud_Detection_App
+# Credit Fraud Detection App
 
 Credit fraud detection app alerts when it detects a change in the transaction operator's location,
 If There is a change in user country, the system will notify the user of the exact time the transaction was made.
