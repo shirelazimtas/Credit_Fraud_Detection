@@ -1,0 +1,11 @@
+id,userId,name,amount,ip,type,continentCode,countryCode,countryName,regionCode,regionName,city,zip,latitude,longitude,geonameId,capital,languagesCode,languagesName,country_flag,country_flag_emoji,country_flag_emoji_unicode,calling_code,is_eu,
+
+5b031c031a8305092487716f,0d731898-af87-4590-971e-246fe7415c21,Gal,260,47.117.227.215,ipv4,AS,Asia,CN,China,Zhejiang,ZJ,Hangzhou,310000,30.235559463500977,https://assets.ipstack.com/flags/cn.svg,1808926,Beijing,zh,Chinese,https://assets.ipstack.com/flags/cn.svg,https://assets.ipstack.com/flags/cn.svg,🇨🇳,U+1F1E8 U+1F1F3,86,false,
+
+5b9910edeeb36f14022985bf,b7c1002d-2d62-41c0-adcb-f412e44a6e4e,Michael,412,47.237.227.215,ipv4,NA,North America,US,United States,California,CA,Foster City,94402,37.539791107177734,https://assets.ipstack.com/flags/us.svg,5350159,Washington D.C.,en,English,https://assets.ipstack.com/flags/us.svg,https://assets.ipstack.com/flags/us.svg,🇺🇸,U+1F1FA U+1F1F8,1,false,
+
+5b27c3f2ff72ae0dcba13e8a,f22e6d8e-11d2-4f76-97ad-f9e713604b9e,Bit,5254,33.237.227.215,ipv4,NA,North America,US,United States,California,CA,San Jose,95122,37.330528259277344,https://assets.ipstack.com/flags/us.svg,5392171,Washington D.C.,en,English,https://assets.ipstack.com/flags/us.svg,https://assets.ipstack.com/flags/us.svg,🇺🇸,U+1F1FA U+1F1F8,1,false,
+
+5be15be8e31c9411daabc4c2,c5664b01-2620-4f70-805d-6fcd0dc4b4aa,Yackov,54334,33.237.123.215,ipv4,NA,North America,US,United States,California,CA,Los Angeles,90013,34.04563903808594,https://assets.ipstack.com/flags/us.svg,5368361,Washington D.C.,en,English,https://assets.ipstack.com/flags/us.svg,https://assets.ipstack.com/flags/us.svg,🇺🇸,U+1F1FA U+1F1F8,1,false,
+
+5be15be8e31c9411daabc4c2,e62feab7-e7aa-4e3f-9f12-4fdd15161f23,Matan,54334,33.219.126.215,ipv4,NA,North America,US,United States,Virginia,VA,Ashburn,20147,39.043701171875,https://assets.ipstack.com/flags/us.svg,4744870,Washington D.C.,en,English,https://assets.ipstack.com/flags/us.svg,https://assets.ipstack.com/flags/us.svg,🇺🇸,U+1F1FA U+1F1F8,1,false,
